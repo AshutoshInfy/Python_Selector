@@ -1,4 +1,4 @@
-# Python_Selector [COMING SOON]
+# Python_Selector [BETA]
 Simple Python program that selects items from a list.
 
 This program was made mostly from memory whilst learning basic Python3.
