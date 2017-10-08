@@ -1,3 +1,6 @@
+#Python Selector Program BETA
+#Contributors: Cutwell, Lewiswatson55
+
 def create_list():    #  defines the create_list function
 	
 	#  1. takes a string input of items to add to the list, e.g.: "1,2,3,4,5"
